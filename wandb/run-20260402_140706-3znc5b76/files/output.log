@@ -1,0 +1,22 @@
+Starting Adaptive Training (Target: <1%, Initial Lambda: 200)...
+--- Violation Threshold Exceeded (14.23%)! New Lambda: 220.00 ---
+Epoch 001 | BCE: 0.6582 | Pen: 0.000235
+Losses | Train: 0.7053 | Val: 0.6134
+--- Violation Threshold Exceeded (8.42%)! New Lambda: 242.00 ---
+Epoch 005 | BCE: 0.3598 | Pen: 0.000016
+Losses | Train: 0.3632 | Val: 0.3339
+--- Violation Threshold Exceeded (15.95%)! New Lambda: 266.20 ---
+Epoch 010 | BCE: 0.2979 | Pen: 0.000017
+Losses | Train: 0.3019 | Val: 0.2830
+--- Violation Threshold Exceeded (16.38%)! New Lambda: 292.82 ---
+Epoch 015 | BCE: 0.2802 | Pen: 0.000017
+Losses | Train: 0.2846 | Val: 0.2664
+--- Violation Threshold Exceeded (17.45%)! New Lambda: 300.00 ---
+Epoch 020 | BCE: 0.2636 | Pen: 0.000018
+Losses | Train: 0.2689 | Val: 0.2547
+--- Violation Threshold Exceeded (17.42%)! New Lambda: 300.00 ---
+Epoch 025 | BCE: 0.2507 | Pen: 0.000020
+Losses | Train: 0.2567 | Val: 0.2402
+--- Violation Threshold Exceeded (23.13%)! New Lambda: 300.00 ---
+Epoch 030 | BCE: 0.2408 | Pen: 0.000022
+Losses | Train: 0.2473 | Val: 0.2305

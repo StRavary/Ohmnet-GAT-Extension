@@ -1,0 +1,22 @@
+{"time":"2026-04-02T14:33:17.0448316-04:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2026-04-02T14:33:17.0448316-04:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\steve\\Documents\\ML Workspace\\Ohmnet GAT Extension\\wandb\\run-20260402_143317-bwcupd7s\\logs\\debug-core.log"}
+{"time":"2026-04-02T14:33:17.1606513-04:00","level":"INFO","msg":"created new stream","id":"bwcupd7s"}
+{"time":"2026-04-02T14:33:17.1606513-04:00","level":"INFO","msg":"stream: started","id":"bwcupd7s"}
+{"time":"2026-04-02T14:33:17.1612072-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bwcupd7s"}
+{"time":"2026-04-02T14:33:17.1606513-04:00","level":"INFO","msg":"handler: started","stream_id":"bwcupd7s"}
+{"time":"2026-04-02T14:33:17.1612072-04:00","level":"INFO","msg":"sender: started","stream_id":"bwcupd7s"}
+{"time":"2026-04-02T14:33:17.5143704-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-04-02T14:33:17.8592537-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-04-02T14:33:17.8730256-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-04-02T14:33:27.5148335-04:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2026-04-02T15:55:37.5928477-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/steven-rav-concordia-university/Ohmnet%20GAT%20extension/bwcupd7s/file_stream"}
+{"time":"2026-04-02T16:06:27.2679571-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-04-02T16:06:27.2690716-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-04-02T16:06:27.5353107-04:00","level":"ERROR","msg":"sender: sendDefer: failed to build job artifact","error":"CreateFile c:\\Users\\steve\\Documents\\ML Workspace\\Ohmnet GAT Extension\\<python with no main file>: The filename, directory name, or volume label syntax is incorrect."}
+{"time":"2026-04-02T16:06:28.2747851-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading best_model.pt","runtime_seconds":0.2302446,"progress":"8.2MB/65.7MB"}],"total_operations":1}}
+{"time":"2026-04-02T16:06:29.7550171-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-04-02T16:06:30.9808028-04:00","level":"INFO","msg":"stream: closing","id":"bwcupd7s"}
+{"time":"2026-04-02T16:06:30.9808028-04:00","level":"INFO","msg":"handler: closed","stream_id":"bwcupd7s"}
+{"time":"2026-04-02T16:06:30.9808028-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bwcupd7s"}
+{"time":"2026-04-02T16:06:30.9808028-04:00","level":"INFO","msg":"sender: closed","stream_id":"bwcupd7s"}
+{"time":"2026-04-02T16:06:30.9808028-04:00","level":"INFO","msg":"stream: closed","id":"bwcupd7s"}

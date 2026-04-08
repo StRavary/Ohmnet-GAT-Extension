@@ -1,0 +1,18 @@
+{"time":"2026-04-02T14:07:06.860206-04:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2026-04-02T14:07:06.860206-04:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\steve\\Documents\\ML Workspace\\Ohmnet GAT Extension\\wandb\\run-20260402_140706-3znc5b76\\logs\\debug-core.log"}
+{"time":"2026-04-02T14:07:06.9757075-04:00","level":"INFO","msg":"created new stream","id":"3znc5b76"}
+{"time":"2026-04-02T14:07:06.9757075-04:00","level":"INFO","msg":"stream: started","id":"3znc5b76"}
+{"time":"2026-04-02T14:07:06.9757075-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"3znc5b76"}
+{"time":"2026-04-02T14:07:06.9757075-04:00","level":"INFO","msg":"handler: started","stream_id":"3znc5b76"}
+{"time":"2026-04-02T14:07:06.9757075-04:00","level":"INFO","msg":"sender: started","stream_id":"3znc5b76"}
+{"time":"2026-04-02T14:07:07.3018027-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-04-02T14:07:07.6441487-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-04-02T14:07:07.6558092-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-04-02T14:07:17.3031811-04:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2026-04-02T14:11:32.5150482-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-04-02T14:16:31.8637626-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-04-02T14:16:31.8735447-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-04-02T14:16:49.1613483-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-04-02T14:16:49.1731314-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-04-02T14:17:03.9949365-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-04-02T14:17:04.0018311-04:00","level":"INFO","msg":"Pausing system monitor"}

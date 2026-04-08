@@ -1,0 +1,14 @@
+{"time":"2026-04-02T14:01:32.5997508-04:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2026-04-02T14:01:32.5997508-04:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\steve\\Documents\\ML Workspace\\Ohmnet GAT Extension\\wandb\\run-20260402_140132-2sd81g4d\\logs\\debug-core.log"}
+{"time":"2026-04-02T14:01:32.8420593-04:00","level":"INFO","msg":"created new stream","id":"2sd81g4d"}
+{"time":"2026-04-02T14:01:32.8420593-04:00","level":"INFO","msg":"stream: started","id":"2sd81g4d"}
+{"time":"2026-04-02T14:01:32.8420593-04:00","level":"INFO","msg":"handler: started","stream_id":"2sd81g4d"}
+{"time":"2026-04-02T14:01:32.8420593-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"2sd81g4d"}
+{"time":"2026-04-02T14:01:32.8420593-04:00","level":"INFO","msg":"sender: started","stream_id":"2sd81g4d"}
+{"time":"2026-04-02T14:01:33.5092632-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-04-02T14:01:33.8753369-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-04-02T14:01:33.8948123-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-04-02T14:01:43.5094276-04:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2026-04-02T14:01:44.6008175-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-04-02T14:04:53.6834468-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-04-02T14:05:03.081383-04:00","level":"INFO","msg":"Pausing system monitor"}

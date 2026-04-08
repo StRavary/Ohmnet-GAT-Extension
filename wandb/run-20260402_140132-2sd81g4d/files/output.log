@@ -1,0 +1,8 @@
+Starting Adaptive Training (Target: <1%, Initial Lambda: 200)...
+--- Violation Threshold Exceeded (15.17%)! New Lambda: 220.00 ---
+Epoch 001 | BCE: 0.6583 | Pen: 0.000235
+Losses | Train: 0.7054 | Val: 0.6135
+Starting Adaptive Training (Target: <1%, Initial Lambda: 200)...
+--- Violation Threshold Exceeded (5.15%)! New Lambda: 220.00 ---
+Epoch 001 | BCE: 0.5886 | Pen: 0.000062
+Losses | Train: 0.6009 | Val: 0.4916

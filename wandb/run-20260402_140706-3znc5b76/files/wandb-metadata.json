@@ -1,0 +1,41 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "3.12.3",
+  "startedAt":  "2026-04-02T18:07:06.859165Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "https://github.com/CleymenZero/Ohmnet-GAT-Extension.git",
+    "commit":  "3be6909a8eed229e17b3eb87ddb4670fd96833cb"
+  },
+  "email":  "steven.rav@gmail.com",
+  "root":  "c:\\Users\\steve\\Documents\\ML Workspace\\Ohmnet GAT Extension",
+  "host":  "DESKTOP-O4CMU4M",
+  "username":  "steve",
+  "executable":  "c:\\Users\\steve\\Documents\\ML Workspace\\venv\\Scripts\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 3090 Ti",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "998656438272",
+      "used":  "409355718656"
+    }
+  },
+  "memory":  {
+    "total":  "34279882752"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3090 Ti",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "13.1"
+}

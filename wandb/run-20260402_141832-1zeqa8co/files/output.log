@@ -1,0 +1,43 @@
+Starting Adaptive Training (Target: <1%, Initial Lambda: 200)...
+--- Violation Threshold Exceeded (3.11%)! New Lambda: 220.00 ---
+Epoch 001 | BCE: 0.6577 | Pen: 0.000169
+Losses | Train: 0.6915 | Val: 0.6133
+--- Hierarchy Stable (0.30%). Lambda Fixed. ---
+Epoch 005 | BCE: 0.3553 | Pen: 0.000009
+Losses | Train: 0.3574 | Val: 0.3302
+--- Violation Threshold Exceeded (1.29%)! New Lambda: 242.00 ---
+Epoch 010 | BCE: 0.2957 | Pen: 0.000009
+Losses | Train: 0.2977 | Val: 0.2795
+--- Violation Threshold Exceeded (1.17%)! New Lambda: 266.20 ---
+Epoch 015 | BCE: 0.2736 | Pen: 0.000009
+Losses | Train: 0.2757 | Val: 0.2599
+--- Violation Threshold Exceeded (1.39%)! New Lambda: 292.82 ---
+Epoch 020 | BCE: 0.2596 | Pen: 0.000010
+Losses | Train: 0.2621 | Val: 0.2486
+--- Violation Threshold Exceeded (1.58%)! New Lambda: 300.00 ---
+Epoch 025 | BCE: 0.2453 | Pen: 0.000010
+Losses | Train: 0.2482 | Val: 0.2331
+--- Violation Threshold Exceeded (1.42%)! New Lambda: 300.00 ---
+Epoch 030 | BCE: 0.2369 | Pen: 0.000010
+Losses | Train: 0.2399 | Val: 0.2205
+--- Violation Threshold Exceeded (1.48%)! New Lambda: 300.00 ---
+Epoch 035 | BCE: 0.2290 | Pen: 0.000011
+Losses | Train: 0.2324 | Val: 0.2122
+--- Violation Threshold Exceeded (1.66%)! New Lambda: 300.00 ---
+Epoch 040 | BCE: 0.2182 | Pen: 0.000012
+Losses | Train: 0.2219 | Val: 0.2005
+--- Violation Threshold Exceeded (1.78%)! New Lambda: 300.00 ---
+Epoch 045 | BCE: 0.2100 | Pen: 0.000014
+Losses | Train: 0.2141 | Val: 0.1913
+--- Violation Threshold Exceeded (1.83%)! New Lambda: 300.00 ---
+Epoch 050 | BCE: 0.2038 | Pen: 0.000014
+Losses | Train: 0.2081 | Val: 0.1840
+--- Violation Threshold Exceeded (2.26%)! New Lambda: 300.00 ---
+Epoch 055 | BCE: 0.1974 | Pen: 0.000015
+Losses | Train: 0.2020 | Val: 0.1748
+--- Violation Threshold Exceeded (2.49%)! New Lambda: 300.00 ---
+Epoch 060 | BCE: 0.1926 | Pen: 0.000016
+Losses | Train: 0.1975 | Val: 0.1702
+--- Violation Threshold Exceeded (2.14%)! New Lambda: 300.00 ---
+Epoch 065 | BCE: 0.1864 | Pen: 0.000016
+Losses | Train: 0.1914 | Val: 0.1630

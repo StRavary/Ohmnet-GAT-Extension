@@ -1,0 +1,10 @@
+2026-04-02 13:31:14,130 INFO    MainThread:25088 [wandb_setup.py:_flush():81] Current SDK version is 0.25.1
+2026-04-02 13:31:14,130 INFO    MainThread:25088 [wandb_setup.py:_flush():81] Configure stats pid to 25088
+2026-04-02 13:31:14,130 INFO    MainThread:25088 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-04-02 13:31:14,130 INFO    MainThread:25088 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\steve\Documents\ML Workspace\Ohmnet GAT Extension\wandb\run-20260402_133114-ve5u4xbd\logs\debug.log
+2026-04-02 13:31:14,130 INFO    MainThread:25088 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\steve\Documents\ML Workspace\Ohmnet GAT Extension\wandb\run-20260402_133114-ve5u4xbd\logs\debug-internal.log
+2026-04-02 13:31:14,135 INFO    MainThread:25088 [wandb_init.py:monkeypatch_ipython():636] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000237A1954B00>
+2026-04-02 13:31:14,135 INFO    MainThread:25088 [wandb_init.py:init():844] calling init triggers
+2026-04-02 13:31:14,135 INFO    MainThread:25088 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'num_proteins': 4510, 'num_tissues': 219, 'protein_embedding_dim': 256, 'num_heads': 8, 'gat_hidden_channels': 256, 'gat_output_channels': 256, 'mlp_hidden_channels': 1024, 'dropout_rate': 0.3, 'tissue_address_dim': 256, 'margin': 0.01, 'learning_rate': 0.0005, 'num_epochs': 1000, 'patience': 50, 'batch_size': 1024, 'initial_lambda': 200, 'violation_threshold': 0.01, 'lambda_multiplier': 1.1, 'max_lambda': 300.0, 'seed': 42, '_wandb': {}}
+2026-04-02 13:31:14,135 INFO    MainThread:25088 [wandb_init.py:init():892] starting backend
